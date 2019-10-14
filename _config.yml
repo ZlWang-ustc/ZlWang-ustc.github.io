@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wang Zhongliang"
+title                    : "Wang Zhongliang/USTC"
 title_separator          : "-"
 name                     : &name "Wang Zhongliang"
 description              : &description "A student of USTC"
